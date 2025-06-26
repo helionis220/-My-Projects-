@@ -40,7 +40,7 @@ Implemented Bonding Curve mechanism and forked pumpfun. Developed smart contract
 
 - Live: <a href="https://app.ape.lol/">Pump Fun</a>
 - Github repos: 
-  - Smart Contract repo: <a href="https://github.com/eross220/Pumpfun-Ape.lol">Pump.fun-Smart Contract</a>
+  - Smart Contract repo: <a href="https://github.com/helionis420/Pumpfun-Ape.lol">Pump.fun-Smart Contract</a>
 
 
 <h3><u><strong><i>Infinite Money Glitch ($IMG)</i></strong></u> &nbsp;(Solana)</h3>
@@ -57,7 +57,7 @@ The $IMG project implements a seamless 5% tax on all transactions, including buy
 </br>
 
 - Live: <a href="https://infinite-money-glitch.vercel.app/">Infinite Money Glitch</a>
-- Github repo: <a href="https://github.com/eross220/Infinite-Money-Glitch">IMG Landing Page</a>
+- Github repo: <a href="https://github.com/helionis420/Infinite-Money-Glitch">IMG Landing Page</a>
 
 
 
@@ -81,7 +81,7 @@ Developed Smart Contract using anchor.
   - You can play game in Solana Devenet
 
 
-- Github repo: <a href="https://github.com/eross220/Solana-Coinflip-Game">Solana Coinflip Game</a>
+- Github repo: <a href="https://github.com/helionis420/Solana-Coinflip-Game">Solana Coinflip Game</a>
 
 - Social Link: <a href="https://mobile.twitter.com/deezkits" target="_blank">Deezkits-twitter</a>
 
@@ -99,7 +99,7 @@ This is a token launchpad application for the Solana blockchain that enables use
     - Simple and intuitive interface
     - Beta version currently available
 
-- Github repo: <a href="https://github.com/eross220/Solana-Token-Launchpad" target="_blank">Solana Token Launchpad</a>
+- Github repo: <a href="https://github.com/helionis420/Solana-Token-Launchpad" target="_blank">Solana Token Launchpad</a>
 - Live link: <a href = "https://mirage-token-launchpad.vercel.app/">Mirage Pad Vercel</a>
 
 <br>
@@ -120,7 +120,7 @@ The platform has facilitated over $20M in fundraising across 100+ projects and a
   - Track record of successful token launches
 
 - Live: <a href="https://flash-launch.com/">Flash Launchpad</a>
-- Github repo: <a href="https://github.com/eross220/flash-launchpad">Flash Launchpad</a>
+- Github repo: <a href="https://github.com/helionis420/flash-launchpad">Flash Launchpad</a>
 
 <br>
 
@@ -134,7 +134,7 @@ Multilyser is ChatGPT powered Website summarization system.<br>
 The project implements data extraction using web scraping and summarizes website contents using LLM technology. It provides great insights about websites by combining web scraping capabilities with OpenAI's GPT.
 
 - Live: <a href="https://multilyser.com">Multilyser</a>
-- Github repo: <a href="https://github.com/eross220/multilyser.com">Multilyser</a>
+- Github repo: <a href="https://github.com/helionis420/multilyser.com">Multilyser</a>
 
 <br>
 
@@ -152,7 +152,7 @@ MuchbetterAI is a most immersive platform for sales ramp-up.
  
 
 - Live: <a href="https://muchbetter.ai">MuchbetterAI</a>
-- Github repo: <a href="https://github.com/eross220/muchbetter-ai">MuchbetterAI</a>
+- Github repo: <a href="https://github.com/helionis420/muchbetter-ai">MuchbetterAI</a>
 
 <br>
 <br>
@@ -165,7 +165,7 @@ MuchbetterAI is a most immersive platform for sales ramp-up.
 AdaletGPT is a Turkish Legal chatbot built on a RAG (Retrieval Augmented Generation) pipeline. The system utilizes LangChain, OpenAI embeddings, and Pinecone vector store to enhance the performance and customization of large language model (LLM) applications through custom data integration.
 
 - Live: <a href="https://adaletgpt.com">AdaletGPT</a>
-- Github repo: <a href="https://github.com/eross220/adaletgpt">AdaletGPT</a>
+- Github repo: <a href="https://github.com/helionis420/adaletgpt">AdaletGPT</a>
 <br>
 
 
@@ -181,7 +181,7 @@ The players can enter in the game with their own bet amount and after the game f
   - You can play game with SOL with this site
   - You can win and get the whole bet amount
 
-- Github repo: <a href="https://github.com/eross220/Solana-Jackpot-Game">JackPot Game</a>
+- Github repo: <a href="https://github.com/helionis420/Solana-Jackpot-Game">JackPot Game</a>
  
 
 <h3><u><strong><i>Smartgen</i></strong></u></h3>
@@ -196,7 +196,7 @@ The platform leverages state-of-the-art AI technology to transform businesses th
 The system implements an advanced RAG (Retrieval Augmented Generation) pipeline to provide accurate and contextually relevant responses while maintaining data security and customization for each client.
 
 - Live: <a href="https://w3bvolution.com/">Smartgen</a>
-- Github repo: <a href="https://github.com/eross220/Smartgen">Smartgen</a>
+- Github repo: <a href="https://github.com/helionis420/Smartgen">Smartgen</a>
 
 <br>
 
@@ -210,6 +210,6 @@ Chicken Derby AI is an OpenAI-powered Race commentary generator that creates dyn
 The system leverages OpenAI's language models to generate real-time, contextual race commentary, providing an immersive experience for racing enthusiasts.<br>
 
 - Live: <a href="https://www.chickenderby.com/">Chicken Derby AI</a>
-- Github repo: <a href="https://github.com/eross220/Chicken-Derby_AI">Chicken Derby AI</a>
+- Github repo: <a href="https://github.com/helionis420/Chicken-Derby_AI">Chicken Derby AI</a>
 
 <br>
